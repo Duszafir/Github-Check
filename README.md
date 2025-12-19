@@ -17,8 +17,3 @@ todo con un diseño limpio y fácil de leer.
 1. Escribí el username de GitHub.
 2. Presioná Buscar.
 3. ¡Listo! Toda la info aparece en pantalla.
-
-### Tecnologías
-- HTML, CSS y JavaScript puro
-- FontAwesome para los iconos
-- GitHub REST API
