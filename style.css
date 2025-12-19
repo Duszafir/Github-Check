@@ -33,7 +33,7 @@ body {
 .dusza {
     width: 40px;
     height: 40px;
-    background-image: url("img/u.png");
+    background-image: url("u.png");
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -289,3 +289,4 @@ button:hover {
         padding: 10px 12px;
     }
 }
+
